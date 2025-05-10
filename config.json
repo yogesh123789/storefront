@@ -1,8 +1,8 @@
 {
   "public": {
     "default": {
-      "commerce-core-endpoint": "https://main--storefront--yogesh123789.aem.page/graphql",
-      "commerce-endpoint": "https://main--storefront--yogesh123789.aem.page/cs-graphql",
+      "commerce-core-endpoint": "https://www.aemshop.net/graphql",
+      "commerce-endpoint": "https://www.aemshop.net/cs-graphql",
       "headers": {
         "all": {
           "Store": "default"
